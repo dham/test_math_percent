@@ -9,6 +9,7 @@ a + b \% c
 $$
 ```
 produces:
+
 $$
 a + b \% c
 $$
@@ -22,6 +23,7 @@ a + b \\% c
 $$
 ```
 produces
+
 $$
 a + b \\% c
 $$
