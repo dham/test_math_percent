@@ -13,7 +13,8 @@ $$
 a + b \% c
 $$
 
-## Double escape percent in maths
+## Double escape percent in maths
+
 The markdown source:
 ```markdown
 $$
